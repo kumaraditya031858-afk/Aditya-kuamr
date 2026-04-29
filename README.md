@@ -1,7 +1,7 @@
 # Aditya-kumar
 # Hi 👋, I'm [Aditya kumar]
 
-### CSE Student | Aspiring Software Engineer 🚀
+### BCA Student | Aspiring Software Engineer 🚀
 
 <img src="https://komarev.com[AapkaUsername]&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
 
